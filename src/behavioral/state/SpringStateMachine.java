@@ -96,7 +96,7 @@ public class SpringStateMachine {
                     parseOk = false;
                 }
             }while (!parseOk);
-            machine.sendEvent(ts.get(choice).getTrigger().getEvent());
+//            machine.sendEvent(ts.get(choice).getTrigger().getEvent());
             if (machine.getState().getId()==exitState) break;
         }
         System.out.println("And we are done!!");

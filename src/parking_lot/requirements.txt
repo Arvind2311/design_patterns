@@ -1,0 +1,9 @@
+Statement:- Design a parking lot with following requirements
+
+-> Should have multiple floors in the parking lot
+-> Should have multiple gates in the parking lot
+-> Should have a parking attendant at each gate.
+-> Entry gate should process the parking ticket
+-> Exit gate should process payment on hourly basis.
+-> Facility for different types of vehicles
+-> Display boards at each floor showing the detail of vacant spots on each floor
