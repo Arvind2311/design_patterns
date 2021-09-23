@@ -1,4 +1,4 @@
-package parking_lot;
+package low_level_design.parking_lot;
 
 import java.util.Date;
 import java.util.List;

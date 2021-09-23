@@ -1,0 +1,7 @@
+Design an ATM machine with following requirements:-
+
+-> User should be able to swipe card
+-> Should be able to withdraw funds
+-> Should be able to deposit cash and check
+-> Should be able to transfer funds
+-> Should be able to check balance
